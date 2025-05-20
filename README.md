@@ -82,7 +82,23 @@ Progress tracker and badge system
 ![image](https://github.com/user-attachments/assets/89adc4ad-bdc7-426f-9c87-42bf4fd8233e)
 
 ## Technology Stack
+| Layer            | Technologies                     
+
+| Frontend         | React.js, Three.js, Tailwind CSS |
+| Backend          | Node.js, Express.js              |
+| Database         | MongoDB or Firebase              |
+| 3D Modeling      | Blender (for model creation)     |
+| Hosting/Cloud    | AWS / Vercel / Netlify           |
+| Multimedia Tools | FFMPEG, Canva, Audacity          |
 
 
 ## Dependencies
+Blender (for 3D model generation)
 
+React/Three.js for 3D rendering
+
+MongoDB for plant data
+
+External APIs (e.g., AYUSH dataset if available)
+
+Firebase Authentication (for user login/bookmarks)
